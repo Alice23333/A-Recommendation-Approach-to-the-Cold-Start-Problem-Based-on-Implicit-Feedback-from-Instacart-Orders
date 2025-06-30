@@ -1,9 +1,4 @@
-# ay2425-s2-pg13
-ST5188 AY2024/25-S2 Project Group 13 Repository Resources
-
-# 🛒 ST5188: Product Recommendation System using SBERT + FAISS
-
-This repository contains the coursework project for ST5188, focusing on building a hybrid recommendation system for Instacart using multiple collaborative filtering techniques, BERT-based text embeddings, and FAISS for fast similarity search.
+This repository focuses on building a hybrid recommendation system for Instacart using multiple collaborative filtering techniques, BERT+FAISS and LightFM.
 
 ## 📁 Project Structure
 
